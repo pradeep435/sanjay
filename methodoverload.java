@@ -13,7 +13,7 @@ public static void main(String args[])
 {
 Scanner Scan = new Scanner(System.in);
 methodoverload method = new methodoverload();
-System.out.println("enter a, b and c");
+System.out.println("value a, b and c");
 int x = Scan.nextInt();
 int y = Scan.nextInt();
 int z = Scan.nextInt();
